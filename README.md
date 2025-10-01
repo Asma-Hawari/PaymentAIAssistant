@@ -1,4 +1,4 @@
-# Checkout MCP (Payment AI Assistant)
+# Payment AI Assistant : Tenlyx <> Checkout.com
 ![Alt text](checkout/AI.png)
 
 ## Quick local run
